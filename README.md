@@ -1,10 +1,10 @@
 # Job Search Materials Review - Prompt for Claude
 
-This is a free, open resource. No app, no paywall. You paste a prompt into Claude, attach your materials, and get back a detailed, specific review with actual rewrites, not vague suggestions. If you or someone you know is navigating this job market and could use a sharper set of materials, this is for you.
+I built this after helping my wife rework her job search materials and watching it make a real difference. I've spent years mentoring designers through job searches, and I kept giving the same feedback: bullets that describe responsibilities instead of accomplishments, LinkedIn headlines wasting keyword space, strongest work buried where no one will see it. The problem is rarely what someone has done. It's how they're communicating it.
 
-Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - free to use and share, not for commercial use.
+This prompt turns Claude into a detailed reviewer of your resume, LinkedIn, and job search positioning. It doesn't give generic advice. It rewrites your actual bullets, compares your materials against real job postings, and tells you exactly what to fix first.
 
-Made with 🤍 by [Phil](https://www.linkedin.com/in/philipmcarter/)
+I hope it helps others find their footing in a market that can feel relentless.
 
 ## How to Use This
 
