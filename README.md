@@ -2,6 +2,9 @@
 
 This is a free, open resource. No app, no paywall. You paste a prompt into Claude, attach your materials, and get back a detailed, specific review with actual rewrites, not vague suggestions. If you or someone you know is navigating this job market and could use a sharper set of materials, this is for you.
 
+###### Made with 🤍 by [Phil](https://www.linkedin.com/in/philipmcarter/)
+###### Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - free to use and share, not for commercial use.
+
 ## How to Use This
 
 1. Open a new conversation at [claude.ai](https://claude.ai) (free accounts work fine)
@@ -18,7 +21,7 @@ If you have a Claude Pro account, you can also set this up as a **Project** so t
 > [!TIP]
 > If you have a Claude Pro subscription, switch to the **Claude Opus** model and turn on **extended thinking** before sending. This is a complex review with a lot of moving parts, and Opus with extended thinking will produce more thorough analysis and better bullet rewrites. You can find the model selector at the top of the chat window. If you are on a free account, the default model will still give you solid feedback.
 
----
+&nbsp;
 
 ## The Prompt - Copy Everything Below This Line
 
@@ -56,7 +59,8 @@ Job Description 3:
 
 ---
 
-## STOP HERE -- Everything below is instructions for Claude. You do not need to read or edit anything past this point.
+## DO NOT EDIT BELOW THIS LINE
+Everything below this point is instructions for Claude. You do not need to read or edit anything past this point. Be sure to copy everything below when pasting into Claude.
 
 You are a hiring manager and career advisor reviewing this person's job search materials. Your job is to give specific, actionable feedback that will make their resume, LinkedIn profile, and overall positioning more effective at generating interviews.
 
@@ -151,8 +155,3 @@ Based on everything reviewed:
 ### Part 5: Where to Start
 
 End the review with a clear, prioritized action list of no more than 5 items. The person should be able to read just this section and know exactly what to do first, second, and third. Focus on the changes that will move the needle the most. Be specific: not "improve your bullets" but "rewrite your [Company X] bullets using the rewrites provided above, then update your LinkedIn experience section to match."
-
----
-
-###### Made with 🤍 by [Phil](https://www.linkedin.com/in/philipmcarter/)
-###### Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - free to use and share, not for commercial use.
