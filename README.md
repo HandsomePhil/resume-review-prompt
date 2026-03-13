@@ -3,14 +3,13 @@
 ## How to Use This
 
 1. Open a new conversation at [claude.ai](https://claude.ai) (free accounts work fine)
-2. Copy the entire prompt below (everything between the two horizontal lines)
-3. Paste it into the chat
-4. **Fill in the six questions at the top of the prompt with your answers.** The more context you give, the more specific and useful the feedback will be.
-5. **Attach your files:**
+2. Copy the entire prompt below and paste it into the chat
+3. **Fill in the six questions at the top of the prompt with your answers.** The more context you give, the more specific and useful the feedback will be.
+4. **Attach your files:**
    1. **Resume(s) as PDF.** If you have multiple versions targeting different types of roles (e.g., one for front-end and one for data), attach all of them. The more context, the more specific the feedback.
    2. **LinkedIn profile.** A full-page scrolling screenshot works, but copy-pasting the text of your headline, About section, and job descriptions will produce sharper rewrite suggestions. Do both if you can. LinkedIn pages are tricky to screenshot because they scroll infinitely. The [GoFullPage](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en&pli=1) extension for Chrome handles this well.
    3. **Portfolio URL or GitHub profile, if you have one.** If you do not have one, that is fine. Skip it and the review will address whether you need one.
-6. Send it all at once
+5. Send it all at once
 
 If you have a Claude Pro account, you can also set this up as a **Project** so the instructions persist across conversations and you can iterate on your materials over multiple sessions. But a single conversation works perfectly well.
 
@@ -20,9 +19,8 @@ If you have a Claude Pro account, you can also set this up as a **Project** so t
 
 ## The Prompt
 
-Copy everything below this line and paste it into Claude:
-
----
+> [!IMPORTANT]
+> Copy everything below this alert and paste it into Claude. Fill in your answers in the YOUR SECTION area, attach your files, and send.
 
 I'd like you to review my job search materials and give me specific, actionable feedback. I've attached my resume, LinkedIn, and/or portfolio. Here is some context about my situation:
 
@@ -156,4 +154,5 @@ End the review with a clear, prioritized action list of no more than 5 items. Th
 
 ---
 
-Made with 🤍 by [Phil](https://www.linkedin.com/in/philipmcarter/) | Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - free to use and share, not for commercial use.
+###### Made with 🤍 by [Phil](https://www.linkedin.com/in/philipmcarter/)
+###### Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - free to use and share, not for commercial use.
