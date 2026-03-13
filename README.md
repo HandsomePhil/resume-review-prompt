@@ -2,9 +2,9 @@
 
 This is a free, open resource. No app, no paywall. You paste a prompt into Claude, attach your materials, and get back a detailed, specific review with actual rewrites, not vague suggestions. If you or someone you know is navigating this job market and could use a sharper set of materials, this is for you.
 
-<sub>Made with 🤍 by [Phil](https://www.linkedin.com/in/philipmcarter/)</sub>
-
 Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - free to use and share, not for commercial use.
+
+Made with 🤍 by [Phil](https://www.linkedin.com/in/philipmcarter/)
 
 ## How to Use This
 
@@ -15,7 +15,9 @@ Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) -
    1. Resume(s) as PDF. If you have multiple versions targeting different types of roles (e.g., one for front-end and one for data), attach all of them. The more context, the more specific the feedback.
    2. LinkedIn profile. A full-page scrolling screenshot works, but copy-pasting the text of your headline, About section, and job descriptions will produce sharper rewrite suggestions. Do both if you can. LinkedIn pages are tricky to screenshot because they scroll infinitely. The [GoFullPage](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en&pli=1) extension for Chrome handles this well.
    3. Portfolio URL or GitHub profile, if you have one. If you do not have one, that is fine. Skip it and the review will address whether you need one.
-5. Paste the completed prompt into the Claude chat, attach your files, and send it all at once.
+5. Paste the completed prompt into the Claude chat.
+6. Attach your files.
+7. Send it all at once.
 
 If you have a Claude Pro account, you can also set this up as a **Project** so the instructions persist across conversations and you can iterate on your materials over multiple sessions. But a single conversation works perfectly well.
 
