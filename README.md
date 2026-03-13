@@ -1,9 +1,13 @@
 # Job Search Materials Review - Prompt for Claude
 
+I built this prompt after helping my wife overhaul her job search materials. The feedback made a real difference for her, and it got me thinking. Over the years I've mentored dozens of designers through job searches, and I kept finding myself giving the same advice: your bullets describe responsibilities instead of accomplishments, your LinkedIn headline is wasting keyword space, your strongest work is buried where no one will see it. Rather than keep repeating myself one person at a time, I figured I'd turn what I know into something anyone can use.
+
+This is a free, open resource. No app, no paywall. You paste a prompt into Claude, attach your materials, and get back a detailed, specific review with actual rewrites, not vague suggestions. If you or someone you know is navigating this job market and could use a sharper set of materials, this is for you.
+
 ## How to Use This
 
 1. Open a new conversation at [claude.ai](https://claude.ai) (free accounts work fine)
-2. Copy the entire prompt below and paste it into the chat
+2. Copy the entire [prompt](#the-prompt) below and paste it into the chat
 3. **Fill in the six questions at the top of the prompt with your answers.** The more context you give, the more specific and useful the feedback will be.
 4. **Attach your files:**
    1. **Resume(s) as PDF.** If you have multiple versions targeting different types of roles (e.g., one for front-end and one for data), attach all of them. The more context, the more specific the feedback.
@@ -13,7 +17,8 @@
 
 If you have a Claude Pro account, you can also set this up as a **Project** so the instructions persist across conversations and you can iterate on your materials over multiple sessions. But a single conversation works perfectly well.
 
-**Getting the best results:** If you have a Claude Pro subscription, switch to the **Claude Opus** model and turn on **extended thinking** before sending. This is a complex review with a lot of moving parts, and Opus with extended thinking will produce more thorough analysis and better bullet rewrites. You can find the model selector at the top of the chat window. If you are on a free account, the default model will still give you solid feedback.
+> [!TIP]
+> **Getting the best results:** If you have a Claude Pro subscription, switch to the **Claude Opus** model and turn on **extended thinking** before sending. This is a complex review with a lot of moving parts, and Opus with extended thinking will produce more thorough analysis and better bullet rewrites. You can find the model selector at the top of the chat window. If you are on a free account, the default model will still give you solid feedback.
 
 ---
 
@@ -24,7 +29,8 @@ If you have a Claude Pro account, you can also set this up as a **Project** so t
 
 I'd like you to review my job search materials and give me specific, actionable feedback. I've attached my resume, LinkedIn, and/or portfolio. Here is some context about my situation:
 
-## >> YOUR SECTION: Fill in your answers below <<
+> [!NOTE]
+> **YOUR SECTION: Fill in your answers below.** Everything after this section is instructions for Claude. You only need to fill in the questions here.
 
 **1. What types of roles are you targeting?** (e.g., front-end developer, data analyst, product manager, or "I'm not sure yet")
 
