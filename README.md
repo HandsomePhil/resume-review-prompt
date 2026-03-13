@@ -2,14 +2,14 @@
 
 This is a free, open resource. No app, no paywall. You paste a prompt into Claude, attach your materials, and get back a detailed, specific review with actual rewrites, not vague suggestions. If you or someone you know is navigating this job market and could use a sharper set of materials, this is for you.
 
-###### Made with 🤍 by [Phil](https://www.linkedin.com/in/philipmcarter/)
-###### Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - free to use and share, not for commercial use.
+<sub>Made with 🤍 by [Phil](https://www.linkedin.com/in/philipmcarter/)</sub>
+<sub>Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - free to use and share, not for commercial use.</sub>
 
 ## How to Use This
 
 1. Open a new conversation at [claude.ai](https://claude.ai) (free accounts work fine)
 2. Copy the entire [prompt](#the-prompt---copy-everything-below-this-line) below into a text editor (Google Docs, Notes, Word, or whatever you have handy). You will need somewhere to fill in your answers before pasting it into Claude.
-3. **Fill in the six questions at the top of the prompt with your answers.** The more context you give, the more specific and useful the feedback will be.
+3. Fill in the six questions at the top of the prompt with your answers. The more context you give, the more specific and useful the feedback will be.
 4. **Attach your files:**
    1. **Resume(s) as PDF.** If you have multiple versions targeting different types of roles (e.g., one for front-end and one for data), attach all of them. The more context, the more specific the feedback.
    2. **LinkedIn profile.** A full-page scrolling screenshot works, but copy-pasting the text of your headline, About section, and job descriptions will produce sharper rewrite suggestions. Do both if you can. LinkedIn pages are tricky to screenshot because they scroll infinitely. The [GoFullPage](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en&pli=1) extension for Chrome handles this well.
@@ -23,7 +23,7 @@ If you have a Claude Pro account, you can also set this up as a **Project** so t
 
 &nbsp;
 
-## The Prompt - Copy Everything Below This Line
+## The Prompt - Copy Everything Below This Line (Don't Forget to Fill in Your Answers)
 
 I'd like you to review my job search materials and give me specific, actionable feedback. I've attached my resume, LinkedIn, and/or portfolio. Here is some context about my situation:
 
@@ -57,7 +57,7 @@ Job Description 2:
 
 Job Description 3:
 
----
+&nbsp;
 
 ## DO NOT EDIT BELOW THIS LINE
 Everything below this point is instructions for Claude. You do not need to read or edit anything past this point. Be sure to copy everything below when pasting into Claude.
