@@ -1,10 +1,6 @@
 # Job Search Materials Review - Prompt for Claude
 
-I built this after helping my wife rework her job search materials and watching it make a real difference. I've spent years mentoring designers through job searches, and I kept giving the same feedback: bullets that describe responsibilities instead of accomplishments, LinkedIn headlines wasting keyword space, strongest work buried where no one will see it. The problem is rarely what someone has done. It's how they're communicating it.
-
-This prompt turns Claude into a detailed reviewer of your resume, LinkedIn, and job search positioning. It doesn't give generic advice. It rewrites your actual bullets, compares your materials against real job postings, and tells you exactly what to fix first.
-
-I hope it helps others find their footing in a market that can feel relentless.
+A prompt that turns Claude into a detailed reviewer of your resume, LinkedIn, and job search positioning. It rewrites your actual bullets, compares your materials against real job postings, and tells you exactly what to fix first. No generic advice.
 
 ## How to Use This
 
