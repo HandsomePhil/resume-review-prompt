@@ -8,13 +8,13 @@ This is a free, open resource. No app, no paywall. You paste a prompt into Claud
 ## How to Use This
 
 1. Open a new conversation at [claude.ai](https://claude.ai) (free accounts work fine)
-2. Copy the entire [prompt](#the-prompt---copy-everything-below-this-line) below and paste it into the chat
+2. Copy the entire [prompt](#the-prompt---copy-everything-below-this-line) below into a text editor (Google Docs, Notes, Word, or whatever you have handy). You will need somewhere to fill in your answers before pasting it into Claude.
 3. **Fill in the six questions at the top of the prompt with your answers.** The more context you give, the more specific and useful the feedback will be.
 4. **Attach your files:**
    1. **Resume(s) as PDF.** If you have multiple versions targeting different types of roles (e.g., one for front-end and one for data), attach all of them. The more context, the more specific the feedback.
    2. **LinkedIn profile.** A full-page scrolling screenshot works, but copy-pasting the text of your headline, About section, and job descriptions will produce sharper rewrite suggestions. Do both if you can. LinkedIn pages are tricky to screenshot because they scroll infinitely. The [GoFullPage](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en&pli=1) extension for Chrome handles this well.
    3. **Portfolio URL or GitHub profile, if you have one.** If you do not have one, that is fine. Skip it and the review will address whether you need one.
-5. Send it all at once
+5. Paste the completed prompt into Claude, attach your files, and send it all at once
 
 If you have a Claude Pro account, you can also set this up as a **Project** so the instructions persist across conversations and you can iterate on your materials over multiple sessions. But a single conversation works perfectly well.
 
