@@ -6,12 +6,12 @@ A prompt that turns Claude into a detailed reviewer of your resume, LinkedIn, an
 
 1. Open a new conversation at [claude.ai](https://claude.ai) (free accounts work fine)
 2. Copy the entire [prompt](#the-prompt---copy-everything-below-this-line-dont-forget-to-fill-in-your-answers) below into a text editor (Google Docs, Notes, Word, or whatever you have handy). You will need somewhere to fill in your answers before pasting it into Claude.
-3. Fill in the six questions at the top of the prompt with your answers. Be thorough! Spend some time to fill this out as completely as possible as the more context you give, the more specific and useful the feedback will be.
-4. Attach the following files:
+3. Fill in the seven questions at the top of the prompt with your answers. Be thorough! Spend some time to fill this out as completely as possible as the more context you give, the more specific and useful the feedback will be.
+4. Paste the completed prompt into the Claude chat.
+5. Attach your files:
    1. Resume(s) as PDF. If you have multiple versions targeting different types of roles (e.g., one for front-end and one for data), attach all of them.
-   2. LinkedIn profile. A full-page scrolling screenshot works, but copy-pasting the text of your headline, About section, and job descriptions will produce sharper rewrite suggestions. Do both if you can. LinkedIn pages are tricky to screenshot because they scroll infinitely. The [GoFullPage](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en&pli=1) extension for Chrome handles this well.
+   2. LinkedIn profile screenshot. LinkedIn pages are tricky to screenshot because they scroll infinitely. The [GoFullPage](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en&pli=1) extension for Chrome handles this well. If you also pasted your LinkedIn text into question 7, even better.
    3. Portfolio URL or GitHub profile, if you have one. If you do not have one, that is fine. Skip it and the review will address whether you need one.
-5. Paste the prompt (complete with your answers) into the Claude chat.
 6. Send everything to Claude and give it time to compile a response.
 
 If you have a Claude Pro account, you can also set this up as a **Project** so the instructions persist across conversations and you can iterate on your materials over multiple sessions. But a single conversation works perfectly well.
@@ -54,6 +54,14 @@ Job Description 1:
 Job Description 2:
 
 Job Description 3:
+
+**7. Paste your LinkedIn profile text here (optional but recommended).** Copy your headline, About section, and job descriptions. This produces better rewrite suggestions than a screenshot alone.
+
+My LinkedIn headline:
+
+My LinkedIn About section:
+
+My LinkedIn job descriptions:
 
 &nbsp;
 
