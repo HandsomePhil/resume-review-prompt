@@ -29,23 +29,23 @@ I'd like you to review my job search materials and give me specific, actionable 
 
 **1. What types of roles are you targeting?** (e.g., front-end developer, data analyst, product manager, or "I'm not sure yet")
 
-Your answer:
+My answer:
 
 **2. How many years of professional experience do you have in your target field?** (Include adjacent experience if relevant, like technical work done in a non-engineering role.)
 
-Your answer:
+My answer:
 
 **3. What is your current situation?** (e.g., employed and looking, recently laid off, career changer, returning after a gap)
 
-Your answer:
+My answer:
 
 **4. Is there anything specific you are concerned about or want me to focus on?** (e.g., "I'm not getting any callbacks," "I don't know if my resume is ATS-friendly," "I'm worried about a career gap")
 
-Your answer:
+My answer:
 
 **5. What geographic market are you in, and are you open to remote work?**
 
-Your answer:
+My answer:
 
 **6. Paste 1-3 job descriptions you are interested in or have recently applied to.** Copy the full posting text, not just the title or link. If you do not have specific postings right now, leave this blank.
 
