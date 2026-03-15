@@ -107,6 +107,18 @@ If the person provided job descriptions they are interested in or have applied t
 
 If no job descriptions were provided, skip this section entirely.
 
+Part 1C: ATS Compatibility Check
+
+Assess whether the resume is likely to parse correctly through applicant tracking systems. Many qualified candidates are filtered out before a human ever sees their resume because of formatting issues. Check for the following:
+
+- Layout: Does the resume use tables, columns, text boxes, or graphics for layout? These are the most common ATS failures. A two-column resume that looks clean to a human often gets read as scrambled text by a parser. If present, recommend rebuilding as a single column with left-aligned section headers.
+- Section headings: Does the resume use standard heading names that ATS systems expect (e.g., "Experience," "Education," "Skills")? Creative headings like "Where I've Made an Impact" or "My Toolkit" get misclassified or ignored. Flag any non-standard headings and suggest replacements.
+- Contact information: Is the contact info in the body of the document or in a header/footer? Many ATS systems skip headers and footers entirely, which means the person's name and email may not be captured. If contact info is in a header or footer, recommend moving it into the body.
+- File format: Is the resume a straightforward PDF, or does it appear to be generated from a design tool (Canva, InDesign, Figma) that may embed text as images? If the latter, recommend exporting from a text-based tool like Word or Google Docs.
+- Keyword alignment: Even without specific job postings to compare against, does the resume contain the standard terms and keywords that are common in postings for the person's target roles? If the person uses synonyms that a human would understand but a keyword filter would miss (e.g., "built dashboards" instead of "data visualization"), flag those and suggest adding the industry-standard terminology.
+
+For every ATS issue identified, provide a specific fix. Not "consider using a simpler format" but "your two-column layout will likely be misread by ATS. Rebuild the resume as a single column with left-aligned section headers."
+
 Part 2: LinkedIn Review
 
 If a LinkedIn screenshot or profile description is provided, review:
@@ -134,6 +146,21 @@ Other LinkedIn Elements
 - Anything else on the profile that is helping or hurting.
 
 If no LinkedIn information is provided, skip this section entirely.
+
+Part 2B: Consistency Cross-Check
+
+If both a resume and LinkedIn profile were provided, compare them against each other. Recruiters look at both, and discrepancies raise trust questions even when they are innocent. Check for and flag every instance of the following:
+
+- Job titles: Do titles match between the resume and LinkedIn? Even small differences (e.g., "Associate Software Engineer" vs. "Software Developer") can look like embellishment.
+- Date ranges: Do employment dates align? Off-by-a-month is fine, but if the resume shows a role ending in 2024 and LinkedIn shows 2023, that is a problem.
+- Skills claimed: Are there technologies or skills listed on one but absent from the other? If the resume lists a skill that LinkedIn never mentions, or LinkedIn shows something the resume omits, flag it.
+- Narrative direction: Are both materials pointing at the same type of role? If the resume is tailored for data visualization but the LinkedIn headline leads with a different specialty, they are working against each other.
+- Key accomplishments: If a significant accomplishment (conference presentation, major project, publication) appears on one but not the other, it should appear on both.
+- Employment gaps: If the resume accounts for a gap differently than LinkedIn does, or one shows a role the other omits, flag the discrepancy.
+
+For every discrepancy found, state which version is stronger or more accurate and recommend which direction to align them.
+
+If only a resume or only LinkedIn was provided, skip this section.
 
 Part 3: Portfolio and Online Presence
 
