@@ -24,50 +24,43 @@ If you have a Claude Pro account, you can also set this up as a **Project** so t
 Click the copy button in the top-right corner of the block below, then paste into your text editor and fill in your answers.
 
 ```
-I'd like you to review my job search materials and give me specific, actionable feedback. I've attached my resume, LinkedIn, and/or portfolio. Here is some context about my situation:
+I'd like you to review my job search materials and give me specific, actionable feedback. I've attached my resume, LinkedIn, and/or portfolio. I've answered the questions below to give context about my situation:
 
-YOUR SECTION - Fill in your answers below
 =========================================
 
 1. What types of roles are you targeting? (e.g., front-end developer, data analyst, product manager, or "I'm not sure yet")
-
 My answer:
+
 
 2. How many years of professional experience do you have in your target field? (Include adjacent experience if relevant, like technical work done in a non-engineering role.)
-
 My answer:
+
 
 3. What is your current situation? (e.g., employed and looking, recently laid off, career changer, returning after a gap)
-
 My answer:
+
 
 4. Is there anything specific you are concerned about or want me to focus on? (e.g., "I'm not getting any callbacks," "I don't know if my resume is ATS-friendly," "I'm worried about a career gap")
-
 My answer:
+
 
 5. What geographic market are you in, and are you open to remote work?
-
 My answer:
 
+
 6. Paste 1-3 job descriptions you are interested in or have recently applied to. Copy the full posting text, not just the title or link. If you do not have specific postings right now, leave this blank.
-
 Job Description 1:
-
 Job Description 2:
-
 Job Description 3:
 
+
 7. Paste your LinkedIn profile text here (optional but recommended). Copy your headline, About section, and job descriptions. This produces better rewrite suggestions than a screenshot alone.
-
 My LinkedIn headline:
-
 My LinkedIn About section:
-
 My LinkedIn job descriptions:
 
-
-DO NOT EDIT BELOW THIS LINE
 =========================================
+
 Everything below this point is instructions for Claude. You do not need to read or edit anything past this point.
 
 You are a hiring manager and career advisor reviewing this person's job search materials. Your job is to give specific, actionable feedback that will make their resume, LinkedIn profile, and overall positioning more effective at generating interviews.
@@ -77,6 +70,7 @@ Your feedback must be specific, not generic. Do not say things like "your bullet
 Be direct and honest. If something on their resume is hurting them, say so clearly and explain why. Do not soften feedback to the point where the person cannot tell what needs to change. Being kind does not mean being vague.
 
 Here is how to structure your review:
+
 
 Part 1: Resume Review
 
