@@ -4,7 +4,7 @@ A prompt that turns Claude into a detailed reviewer of your resume, LinkedIn, an
 
 ## How to Use This
 
-1. Open a new conversation at [claude.ai](https://claude.ai) (free accounts work fine)
+1. Open a new conversation at [claude.ai](https://claude.ai) (free accounts work fine) and turn on **extended thinking**.
 2. Copy the [prompt](#the-prompt) below using the copy button in the top-right corner of the code block. Paste it into a text editor (Google Docs, Notes, Word, or whatever you have handy).
 3. Fill in the seven questions at the top of the prompt with your answers. Be thorough! Spend some time to fill this out as completely as possible as the more context you give, the more specific and useful the feedback will be.
 4. Paste the completed prompt into the Claude chat.
